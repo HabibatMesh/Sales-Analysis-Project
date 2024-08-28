@@ -9,9 +9,9 @@ The company needs to assess which regions, products, and sales representatives c
 
 ### Skills/Concepts Demonstrated
 ---
-Data Analysis: Utilizing pivot tables to summarize and analyze large datasets.
-Data Visualization: Representing data insights in a digestible format (likely present on the "DASHBOARD" sheet).
-Business Intelligence: Drawing actionable insights from revenue trends and sales data.
+- Data Analysis: Utilizing pivot tables to summarize and analyze large datasets.
+- Data Visualization: Representing data insights in a digestible format.
+- Business Intelligence: Drawing actionable insights from revenue trends and sales data.
 
 ### Data Importing and Cleaning
 ---
