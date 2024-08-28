@@ -28,16 +28,29 @@ With appropriate functions and formulars  the following fields were derived and 
 - Unit
 - Revenue
 
+
+![Data Table](https://github.com/user-attachments/assets/69880f1d-90d5-4349-874f-72006701afb1)
+
 ### Analysis/Pivot Table
 ---
 The pivot table highlights the revenue generated across different regions. The West region appears to have the highest revenue contribution.
 
+
+![Revenue by Region](https://github.com/user-attachments/assets/0af68abe-78c7-456d-8ab9-95d632d46236)
+---
 This analysis shows which sales representatives are the top performers. The data suggests that Jessica has the highest revenue among all representatives.
+
+![Revenue by Sales and Product](https://github.com/user-attachments/assets/2f47a6a3-ef5f-445d-ac95-b7b9ec25bae5)
+
 
 This table provides insights into revenue growth or decline year-over-year. For example, 2016 saw a significant increase in revenue, while other years show varied performance.
 
+![Sales Trend](https://github.com/user-attachments/assets/024c7d08-621d-4fc3-bef6-570eab9e3880)
+
 The analysis reveals which products are driving the most revenue. "Quad" and "Bellen" are among the top performers.
 This table identifies the best-performing salesperson for each year, which can help in recognizing and rewarding top talent.
+
+![Top 3 by Product and Sales Person](https://github.com/user-attachments/assets/0bd4a896-7e61-4923-990c-e88a51c9964f)
 
 ### Recommendation
 ---
