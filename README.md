@@ -3,21 +3,27 @@
 
 ![Excel Dashboard](https://github.com/user-attachments/assets/67561292-7eca-49ca-b7e8-3efc9d484df7)
 ---
+
 ### Project Overview
 
-The analysis in this report focuses on understanding the revenue generation patterns across different regions, products, and sales representatives. By examining historical sales data, the report aims to identify key trends and contributors to overall revenue, which will inform strategic decision-making processes.
+The analysis in this report focuses on understanding the revenue generated patterns across different regions, products, and sales representatives. By examing historical sales data, the report aims to identify key trends and contributors to overall revenue, which will inform strategic decision-making processes.
+
 ---
+
 ### Problem Statement
 
 The company needs to assess which regions, products, and sales representatives contribute the most to revenue generation. Additionally, understanding year-over-year changes and identifying top-performing salespeople and products is crucial for improving sales strategies and resource allocation.
+
 ---
+
 ### Skills/Concepts Demonstrated
 
 - Data Analysis: Utilizing pivot tables to summarize and analyze large datasets.
 - Data Visualization: Representing data insights in a digestible format.
 - Business Intelligence: Drawing actionable insights from revenue trends and sales data.
-
+  
 ---
+
 ### Data Importing and Cleaning
 
 The raw sales data was imported in CSV?Text format, so Excel Power Query was used to transformed it into a usable format before loading it into the Excel spreadsheet. Missing values were identified and replaced using the most suitable and appropriate methods, data inconsistencies were corrwected, and ensuring that the data was in a format suitable for pivot table analysis.
@@ -31,8 +37,8 @@ With appropriate functions and formulars  the following fields were derived and 
 - Unit
 - Revenue
 
-
 ![Data Table](https://github.com/user-attachments/assets/69880f1d-90d5-4349-874f-72006701afb1)
+
 ---
 ### Analysis/Pivot Table
 
@@ -40,6 +46,7 @@ The pivot table and Chart highlights the revenue generated across three differen
 
 
 ![Revenue by Region](https://github.com/user-attachments/assets/0af68abe-78c7-456d-8ab9-95d632d46236)
+
 ---
 The first pivot chart analysis shows sales representatives with highest revenue. While, the second pivot chart highlighted the product with highest revenue.
 
