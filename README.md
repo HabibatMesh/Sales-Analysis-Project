@@ -1,5 +1,8 @@
 # Superstore Sales Data Analysis Project 
 
+
+![Excel Dashboard](https://github.com/user-attachments/assets/67561292-7eca-49ca-b7e8-3efc9d484df7)
+
 ### Project Overview
 --
 The analysis in this report focuses on understanding the revenue generation patterns across different regions, products, and sales representatives. By examining historical sales data, the report aims to identify key trends and contributors to overall revenue, which will inform strategic decision-making processes.
